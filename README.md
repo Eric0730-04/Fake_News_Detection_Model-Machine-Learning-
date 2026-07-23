@@ -22,6 +22,7 @@ The following models were compared:
 - Logistic Regression
 - Support Vector Machine
 - Decision Tree
+- KNN
 
 After hyperparameter tuning, the best-performing model was an **SVM with an RBF kernel and `C = 0.1`**.
 
