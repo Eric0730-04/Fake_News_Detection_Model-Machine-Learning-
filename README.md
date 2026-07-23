@@ -54,6 +54,6 @@ Future improvements could include:
 
 ## Project Files
 
-- [Jupyter Notebook](code.ipynb)
-- [Dataset](fake_news_dataset.csv)
-- [Presentation](Presentation%20PPT.pdf)
+- [Code Works](code.ipynb)
+- [Fake_News_Dataset.csv](fake_news_dataset.csv)
+
