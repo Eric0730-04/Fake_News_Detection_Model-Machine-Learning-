@@ -43,9 +43,14 @@ Future improvements could include:
 - Random Forest or Gradient Boosting
 - A larger and more representative dataset
 
-## Tools
 
-Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook
+## Technologies Used
+
+- **Programming Language:** Python
+- **Data Processing:** pandas, NumPy
+- **Machine Learning:** scikit-learn
+- **Data Visualization:** Matplotlib
+- **Development Environment:** Jupyter Notebook
 
 ## Project Files
 
