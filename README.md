@@ -50,5 +50,5 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Jupyter Notebook
 ## Project Files
 
 - [Jupyter Notebook](code.ipynb)
-- [Final Report](Report.pdf)
+- [Dataset](fake_news_dataset.csv)
 - [Presentation](Presentation%20PPT.pdf)
